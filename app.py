@@ -1,11 +1,11 @@
-from flask import Flask, render_template, url_for, json
-import requests
+from flask import Flask, escape, request, render_template
 
 app = Flask(__name__)
 
 @app.route('/')
 def track():
-    return "Track Some bugs!"
+    name = 'Joe'
+    return render_template('staticfiles/html/index.html', name=name)
 
 if __name__ == "__main__":
     app.run(debug=True, host='0.0.0.0')
