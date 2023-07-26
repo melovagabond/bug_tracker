@@ -9,7 +9,7 @@ djangorestframework==3.9.0
 Flask==2.2.5
 Flask-SQLAlchemy==2.4.4
 html5lib==0.999999999
-Jinja2==2.11.2
+Jinja2==2.11.3
 Markdown==3.0.1
 python-dateutil==2.7.5
 pytz==2018.7
