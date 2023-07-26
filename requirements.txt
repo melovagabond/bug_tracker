@@ -6,7 +6,7 @@ django-debug-toolbar==1.11
 django-extensions==2.1.4
 django-filter==2.0.0
 djangorestframework==3.9.0
-Flask==1.1.2
+Flask==2.2.5
 Flask-SQLAlchemy==2.4.4
 html5lib==0.999999999
 Jinja2==2.11.2
