@@ -13,7 +13,7 @@ Jinja2==2.11.3
 Markdown==3.0.1
 python-dateutil==2.7.5
 pytz==2018.7
-requests==2.18.4
+requests==2.31.0
 six==1.12.0
 sqlparse==0.2.4
 websockets==7.0
